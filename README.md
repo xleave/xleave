@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm xleave! 👋  
+🎓 **About Me**  
+- Final-year undergraduate student in University of Essex.
 
-<!--
-**xleave/xleave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ **Skills & Interests**  
+- **Programming:** Java, Python, C++  
+- **Frameworks:** ROS 2, Qt5
+- **Focus Areas:** Telepresence robots, autonomous navigation, and intelligent systems  
 
-Here are some ideas to get you started:
+🌟 **Current Projects**  
+- Building a telepresence robot with navigation and LLM interaction for memory-impaired users.  
+- Creating a personal app for location recording and city map generation.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact Me**  
+- xl24773@essex.ac.uk
