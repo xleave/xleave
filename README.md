@@ -11,5 +11,3 @@
 - Building a telepresence robot with navigation and LLM interaction for memory-impaired users.  
 - Creating a personal app for location recording and city map generation.  
 
-📫 **Contact Me**  
-- xl24773@essex.ac.uk
