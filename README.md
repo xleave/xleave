@@ -1,13 +1,8 @@
-# Hi, I'm xleave! 👋  
-🎓 **About Me**  
-- Final-year undergraduate student in University of Essex.
+Hi, I'm xleave! 👋
 
-🛠️ **Skills & Interests**  
-- **Programming:** Java, Python, C++  
-- **Frameworks:** ROS 2, Qt5
-- **Focus Areas:** Telepresence robots, autonomous navigation, and intelligent systems  
-
-🌟 **Current Projects**  
-- Building a telepresence robot with navigation and LLM interaction for memory-impaired users.  
-- Creating a personal app for location recording and city map generation.  
-
+🎓 MSc Robotics @ University of Bristol
+🛠️ Skills: Java | Python | C++ | Rust | Flutter
+⚡ Frameworks & Tools: ROS 2 | Qt6 | Nav2
+🌍 Focus: Telepresence robots | Autonomous navigation | AI-assisted systems
+💻 Dev Environment: Fedora 42 | Wayland | Niri
+💡 Goals: AI-driven robotics for elderly & disabled care, bridging simulation and real-world deployment
