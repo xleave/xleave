@@ -9,5 +9,3 @@ Hi, I'm xleave! 👋
 🌍 Focus: Telepresence robots | Autonomous navigation | AI-assisted systems
 
 💻 Dev Environment: Fedora 42 | Wayland | Niri
-
-💡 Goals: AI-driven robotics for elderly & disabled care, bridging simulation and real-world deployment
